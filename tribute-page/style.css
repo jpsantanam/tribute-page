@@ -1,0 +1,14 @@
+body{
+    background-color: lightgray;
+    text-align: center;
+}
+figure{
+    background-color: white;
+}
+img{
+    width: 80%;
+}
+ul{
+    text-align: justify;
+    line-height: 2;
+}
